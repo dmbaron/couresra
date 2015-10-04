@@ -1,0 +1,6 @@
+[submodule "2_RPROG"]
+	path = 2_RPROG
+	url = https://github.com/dmbaron/datasciencecoursera
+[submodule "3_GETDATA"]
+	path = 3_GETDATA
+	url = https://github.com/dmbaron/datasciencecoursera
